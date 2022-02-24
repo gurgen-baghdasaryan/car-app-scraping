@@ -2,7 +2,7 @@
 
 ## Installation
 
-###### Backend
+###### Backend/server
 
 Install dependecies and devDependencies
 
@@ -16,7 +16,7 @@ Enter the following command
 node server.js
 ```
 
-###### Frontend
+###### Frontend/client
 
 ```sh
 `cd client` go into the folder
