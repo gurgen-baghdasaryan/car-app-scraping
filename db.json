@@ -1,0 +1,64 @@
+{
+  "scraper": [
+    {
+      "carTitle": "Volkswagen Touran\nAdvance 2.0 TDI 110 kW (150 CV)",
+      "carPrice": "21.990 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F29%2F28%2F8%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "SEAT Arona\n1.0 TSI Ecomotive FR 85 kW (115 CV)",
+      "carPrice": "19.990 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F27%2F22%2F4%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "Volkswagen ID.3\n1st Plus Auto 150 kW (204 CV)",
+      "carPrice": "33.995 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F21%2F23%2F9%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "SEAT Ibiza\n1.0 TSI S&S Style 85 kW (115 CV)",
+      "carPrice": "15.500 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F21%2F24%2F5%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "CUPRA Formentor\n1.5 TSI DSG 110 kW (150 CV)",
+      "carPrice": "30.900 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F56%2F1%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "SEAT Arona\n1.0 TSI Ecomotive FR 81 kW (110 CV)",
+      "carPrice": "20.900 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F54%2F9%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "Volkswagen Crafter Furgon\nBatalla Corta TN 2.0 TDI BMT 80 kW (109 CV) 3.000",
+      "carPrice": "17.500 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F54%2F6%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "SEAT Arona\n1.0 TSI S&S FR 81 kW (110 CV)",
+      "carPrice": "23.400 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F54%2F3%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "SEAT Ibiza\n1.0 TSI S&S Style 81 kW (110 CV)",
+      "carPrice": "15.900 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F53%2F4%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "SEAT Leon\n2.0 TDI S&S Xcellence DSG 110 kW (150 CV)",
+      "carPrice": "24.400 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F51%2F3%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "Volkswagen Polo\nEdition 1.0 55 kW (75 CV)",
+      "carPrice": "14.200 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F33%2F6%2Fg01.jpg&size=700"
+    },
+    {
+      "carTitle": "Volkswagen Tiguan\nSport 2.0 TDI 110 kW (150 CV) DSG",
+      "carPrice": "34.490 €",
+      "carImg": "https://images.motorflash.com/filter?path=https%3A%2F%2Fwww.dasweltauto.es%2Fesp%2Ffotos_anuncios%2F00%2F01%2F79%2F71%2F26%2F7%2Fg01.jpg&size=700"
+    }
+  ]
+}
