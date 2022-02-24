@@ -57,6 +57,9 @@ The project is deployed in [GitHub Pages](https://pages.github.com/)
     <a href="https://git-scm.com/" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
     </a>
+     <a href="https://github.com/puppeteer/puppeteer" target="_blank">
+        <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="puppeteer" width="40" height="40"/>
+    </a>
   
  
     
