@@ -1,0 +1,13 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #cec5ab;
+}
+
+img {
+  width: 100%;
+  object-fit: contain; /* mirar luego ?*/
+}
