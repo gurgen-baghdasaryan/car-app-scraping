@@ -13,12 +13,18 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/icons-material": "^5.5.1",
+    "@mui/material": "^5.5.1",
+    "@mui/styled-engine-sc": "^5.4.2",
     "concurrently": "^7.0.0",
     "cors": "2.8.5",
     "dotenv": "16.0.0",
     "express": "4.17.3",
     "lowdb": "^1.0.0",
     "puppeteer": "13.3.2",
+    "styled-components": "^5.3.3",
     "uuid": "8.3.2"
   },
   "devDependencies": {
