@@ -9,7 +9,7 @@ import Button from "@mui/material/Button";
 import Typography from "@mui/material/Typography";
 
 //axios allows us to make requests to the backend
-import "./ProductList.css"
+import "./ProductList.css";
 import axios from "axios";
 
 const ProductList = () => {
@@ -32,13 +32,9 @@ const ProductList = () => {
     <div className="product">
       {/* We tell our state variable to iterate with map */}
       {list.map((lista) => (
-        <div className="ProductList">
-          <Card sx={{ maxWidth: 345 }} key={lista}>
-            <CardMedia
-              component="img"
-              alt="car"
-              src={lista.carImg}
-            />
+        <div className="ProductList" key={lista}>
+          <Card sx={{ maxWidth: 345 }}>
+            <CardMedia component="img" alt="car" src={lista.carImg} />
             <CardContent>
               <Typography gutterBottom variant="h5" component="div">
                 {lista.carTitle}
@@ -56,7 +52,6 @@ const ProductList = () => {
       ))}
     </div>
   );
-  
 };
 
 export default ProductList;
