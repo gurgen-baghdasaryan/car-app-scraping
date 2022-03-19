@@ -2,6 +2,20 @@
 
 ## Installation
 
+######car-app-scraping APP
+
+Install dependecies and devDependencies
+
+```sh
+npm i
+```
+
+Enter the following command
+
+```sh
+npm run dev
+```
+
 ###### Backend/server
 
 Install dependecies and devDependencies
