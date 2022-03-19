@@ -31,8 +31,8 @@ const ProductList = () => {
   return (
     <div className="product">
       {/* We tell our state variable to iterate with map */}
-      {list.map((lista) => (
-        <div className="ProductList" key={lista}>
+      {list.map((lista, index) => (
+        <div className="ProductList" key={index}>
           <Card sx={{ maxWidth: 345 }}>
             <CardMedia component="img" alt="car" src={lista.carImg} />
             <CardContent>
@@ -40,7 +40,7 @@ const ProductList = () => {
                 {lista.carTitle}
               </Typography>
               <Typography variant="body2" color="text.secondary">
-                <p>{lista.carPrice}</p>
+                {lista.carPrice}
               </Typography>
             </CardContent>
             <CardActions>
