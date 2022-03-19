@@ -56,8 +56,8 @@ The project is deployed in [GitHub Pages](https://pages.github.com/)
 <br>
 
 <p align="left">
-      <a href="https://react-bootstrap.github.io/components/alerts/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/>
+     <a href="https://mui.com/" target="_blank">
+        <img src="https://mui.com/static/logo.png" alt="MUI" width="40" height="40"/>
     </a> 
      <a href="https://nodejs.org/es/" target="_blank">
         <img src="https://img2.freepng.es/20180410/qgw/kisspng-node-js-javascript-database-mongodb-native-5acd4ebf6b4b75.3634484415234044794395.jpg" alt="nodejs" width="40" height="40"/>
