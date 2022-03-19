@@ -4,10 +4,10 @@
   box-sizing: border-box;
 }
 body {
-  background-color: #cec5ab;
+  background-color: #acb0b1;
 }
 
 img {
   width: 100%;
-  object-fit: contain; /* mirar luego ?*/
+  object-fit: contain; 
 }
